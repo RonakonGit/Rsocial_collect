@@ -1,0 +1,2 @@
+# socail_content_collector
+creates a list of url from  google news of google trends . Then scraps  artical title ,text, keywords. genrates hashtags from this keywors and meta discription.  places article title  on artical image and  creates a message  from hashtags  and artical text . now sends  this processed image  and msg to urs telegram . now u ca share this image to socail media and also  now you have caption with hashtags .  
