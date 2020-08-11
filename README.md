@@ -57,4 +57,4 @@ Manoj Sinha has been appointed the new Lt Governor of Jammu and Kashmir after GC
 The GC Murmu-led J&K administration has faced controversy over its opposition to restore 4G internet services in Jammu and Kashmir. It has cited increased terror activity as the reason behind its move in the Supreme Court in response to petitions seeking restoration of high-speed internet.
 An NGO called Foundation for Media Professionals had approached the Supreme Court for contempt action against the Jammu and Kashmir administration and the centre for not implementing the top court's orders in restoring 4G internet services.15 #4G #4g #4ginternettoberestoredinJ&K #Centreallows4ginternetinJ&K #J&K4ginternetnews #JammuAndKashmirlatestnews #JammuandKashmir #Kashmirnews #SupremeCourt #administration #allows #basis #centre #court #districts #internet #jammu #jk #kashmir #services #supreme #trial #union*
 # make changes according to your location for article search
-# fee free to contact me on Instagram @ronak.ig 
+# Instagram @ronak.ig 
