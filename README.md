@@ -30,7 +30,7 @@ scripts got url of source
 <img src="./3.png">
 <img src="./4.png">
 
-## processing iartical tile on artical image 
+## processing artical title on artical image 
 
 <img src="./sample1.jpg">
 
