@@ -180,8 +180,6 @@ for i in (url_list): #for each url we need to scrap it  using newspaper3k liabra
         draw = ImageDraw.Draw(img) # draw image
         drawText(imagetitle, "bottom") # this function will place image title on image  at given postiton
         img.save("temp.png") #save genrated image to caption
-        img.show()        
-        input()
         send_to_telegram("temp.png",caption) # send this image to ur telegram using ur bot
 
         
