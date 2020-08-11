@@ -1,4 +1,4 @@
-# socail_content_collector
+# Rsocial_collect
 creates a list of URLs from google news of google trends. Then scraps article title, text, keywords. generates hashtags from these keywords and meta descriptions.  places article title on article image and creates a message from hashtags and article text. now sends this processed image and msg to urs telegram. now u can share this image with social media and also now you have a caption with hashtags. 
 
 # why I made it :
